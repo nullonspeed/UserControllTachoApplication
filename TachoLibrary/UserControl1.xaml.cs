@@ -78,6 +78,7 @@ namespace TachoLibrary
                     X2 = can_Tacho.ActualWidth / 2 - Radius * 0.85,
                     Y2 = can_Tacho.ActualHeight * 0.9
 
+
                 };
 
 
